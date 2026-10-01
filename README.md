@@ -42,13 +42,13 @@ Based in Bengaluru 🇮🇳
 ## 🎓 Certifications
 
 - ![Anthropic](https://img.shields.io/badge/Claude-E07C4C?style=flat-square&logo=anthropic&logoColor=white): Claude Certified Architect (Foundations, Professional, Developer Foundations)
-- Google: Generative AI Leadership
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white): Generative AI Leadership
+
+## <img src="https://cdn.simpleicons.org/github/8B949E" height="24" align="center" alt="GitHub" /> GitHub Stats
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailayan&theme=github_dark" />
 
 ## 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanabbasi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gibran_abbasi/)
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailayan&theme=github_dark" />
-</p>
