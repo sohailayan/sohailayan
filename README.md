@@ -41,7 +41,7 @@ Based in Bengaluru 🇮🇳
 
 ## 🎓 Certifications
 
-- Anthropic: Claude Certified Architect (Foundations, Professional, Developer Foundations)
+- ![Anthropic](https://img.shields.io/badge/Claude-E07C4C?style=flat-square&logo=anthropic&logoColor=white): Claude Certified Architect (Foundations, Professional, Developer Foundations)
 - Google: Generative AI Leadership
 
 ## 📫 Find me
