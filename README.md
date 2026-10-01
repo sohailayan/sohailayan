@@ -44,7 +44,7 @@ Based in Bengaluru 🇮🇳
 - ![Anthropic](https://img.shields.io/badge/Claude-E07C4C?style=flat-square&logo=anthropic&logoColor=white): Claude Certified Architect (Foundations, Professional, Developer Foundations)
 - ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white): Generative AI Leadership
 
-## <img src="https://cdn.simpleicons.org/github/8B949E" height="24" align="center" alt="GitHub" /> GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/8B949E" height="24" align="center" alt="GitHub" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailayan&theme=github_dark" />
 
