@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90" width="160" height="144">
+  <style>
+    .claude-body { animation: claude-jump 0.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+    .claude-shadow { animation: claude-shadow-scale 0.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .claude-left-arm { animation: claude-wave-left 0.5s ease-in-out infinite; transform-box: fill-box; transform-origin: right center; }
+    .claude-right-arm { animation: claude-wave-right 0.5s ease-in-out infinite; transform-box: fill-box; transform-origin: left center; }
+    .claude-left-ear { animation: claude-ear-bounce 0.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+    .claude-right-ear { animation: claude-ear-bounce 0.5s ease-in-out infinite 0.1s; transform-box: fill-box; transform-origin: center bottom; }
+    @keyframes claude-jump {
+      0%, 100% { transform: translateY(0) scaleY(1) scaleX(1); }
+      30% { transform: translateY(-16px) scaleY(1.1) scaleX(0.95); }
+      50% { transform: translateY(-18px) scaleY(1.05) scaleX(0.98); }
+      80% { transform: translateY(-5px) scaleY(0.95) scaleX(1.05); }
+    }
+    @keyframes claude-shadow-scale {
+      0%, 100% { transform: scaleX(1); opacity: 0.25; }
+      50% { transform: scaleX(0.4); opacity: 0.08; }
+    }
+    @keyframes claude-wave-left {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(-25deg); }
+    }
+    @keyframes claude-wave-right {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(25deg); }
+    }
+    @keyframes claude-ear-bounce {
+      0%, 100% { transform: scaleY(1); }
+      40% { transform: scaleY(1.2); }
+      60% { transform: scaleY(0.85); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .claude-body, .claude-shadow, .claude-left-arm, .claude-right-arm, .claude-left-ear, .claude-right-ear {
+        animation: none;
+      }
+    }
+  </style>
+
+  <ellipse class="claude-shadow" cx="50" cy="82" rx="22" ry="5" fill="#000" />
+
+  <g class="claude-body">
+    <rect class="claude-left-ear" x="22" y="10" width="8" height="14" fill="#E07C4C" />
+    <rect class="claude-right-ear" x="70" y="10" width="8" height="14" fill="#E07C4C" />
+    <rect x="18" y="24" width="64" height="4" fill="#E07C4C" />
+    <rect x="14" y="28" width="72" height="32" fill="#E07C4C" />
+    <rect x="30" y="34" width="8" height="10" fill="#000000" />
+    <rect x="62" y="34" width="8" height="10" fill="#000000" />
+    <rect class="claude-left-arm" x="2" y="36" width="12" height="8" fill="#E07C4C" />
+    <rect class="claude-right-arm" x="86" y="36" width="12" height="8" fill="#E07C4C" />
+    <rect x="24" y="60" width="12" height="14" fill="#E07C4C" />
+    <rect x="64" y="60" width="12" height="14" fill="#E07C4C" />
+  </g>
+</svg>
