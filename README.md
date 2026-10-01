@@ -44,6 +44,12 @@ Based in Bengaluru 🇮🇳
 - Anthropic: Claude Certified Architect (Foundations, Professional, Developer Foundations)
 - Google: Generative AI Leadership
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailayan&theme=github_dark" />
+</p>
+
 ## 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanabbasi)
